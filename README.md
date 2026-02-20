@@ -100,7 +100,7 @@ The following workflow was applied:
 
 ## Goal 1 — Total Unit Sales by Manufacturer
 
-![Goal 1](screenshots/goal1_total_unit_sales.png)
+![Goal 1](Screenshots/goal1_total_unit_sales.png)
 
 **Insight:**
 Ford generates the highest total unit sales, followed by Dodge and Toyota, reflecting strong mass-market demand.
@@ -109,7 +109,7 @@ Ford generates the highest total unit sales, followed by Dodge and Toyota, refle
 
 ## Goal 2 — Average Price by Vehicle Type
 
-![Goal 2](screenshots/goal2_avg_price.png)
+![Goal 2](Screenshots/goal2_avg_price.png)
 
 **Insight:**
 Passenger vehicles have slightly higher average pricing due to the presence of premium and luxury sedans.
@@ -118,7 +118,7 @@ Passenger vehicles have slightly higher average pricing due to the presence of p
 
 ## Goal 3 — Fuel Efficiency by Horsepower Level
 
-![Goal 3](screenshots/goal3_mpg_by_hp.png)
+![Goal 3](Screenshots/goal3_mpg_by_hp.png)
 
 **Insight:**
 Fuel efficiency decreases as horsepower increases, demonstrating the trade-off between performance and fuel economy.
@@ -127,7 +127,7 @@ Fuel efficiency decreases as horsepower increases, demonstrating the trade-off b
 
 ## Goal 4 — Most Expensive Models
 
-![Goal 4](screenshots/goal4_most_expensive.png)
+![Goal 4](Screenshots/goal4_most_expensive.png)
 
 **Insight:**
 Luxury and sports vehicles dominate the highest price rankings, led by Mercedes-Benz and Porsche models.
@@ -136,7 +136,7 @@ Luxury and sports vehicles dominate the highest price rankings, led by Mercedes-
 
 ## Goal 5 — Highest Resale Value
 
-![Goal 5](screenshots/goal5_resale_value.png)
+![Goal 5](Screenshots/goal5_resale_value.png)
 
 **Insight:**
 Premium brands maintain stronger resale value, indicating slower depreciation.
@@ -145,7 +145,7 @@ Premium brands maintain stronger resale value, indicating slower depreciation.
 
 ## Goal 6 — Retention Distribution
 
-![Goal 6](screenshots/goal6_retention_dist.png)
+![Goal 6](Screenshots/goal6_retention_dist.png)
 
 **Insight:**
 54% of vehicles fall into the POOR retention category, highlighting widespread depreciation across the automotive market.
